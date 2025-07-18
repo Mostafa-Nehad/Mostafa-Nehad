@@ -22,6 +22,16 @@
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
 </div>
 
 ###
@@ -38,6 +48,6 @@
 
 ###
 
-<p align="left">  Ask me about  <br>• Frontend Development  <br>• React / Next.js  <br>• Responsive Design  <br>• Tailwind CSS  <br>• Optimizing Web Performance  <br>• Building UI/UX with clean code</p>
+<p align="left">👨‍💻 About Me<br><br>I'm a Frontend Developer specializing in building fast, responsive web apps using **React** and **Next.js**.  <br>Passionate about clean UI, web performance, and modern frontend tools like **Tailwind CSS**.  <br>Always learning, always building.</p>
 
 ###
