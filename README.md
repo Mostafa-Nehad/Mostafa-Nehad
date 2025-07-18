@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Frontend Developer | Focused on performance, UX, and clean code with Next.js</p>
+<h4 align="left">Frontend Developer | Focused on performance, UX, and clean code with Next.js</h4>
 
 ###
 
@@ -44,9 +44,6 @@
   <a href="https://www.linkedin.com/in/mostafa-nehad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mostafanehad1995@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -55,6 +52,6 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer specializing in building fast, responsive web apps using **React** and **Next.js**.  <br>Passionate about clean UI, web performance, and modern frontend tools like **Tailwind CSS**.  <br>Always learning, always building.</p>
+<h4 align="left">I'm a Frontend Developer specializing in building fast, responsive web apps using **React** and **Next.js**.  <br>Passionate about clean UI, web performance, and modern frontend tools like **Tailwind CSS**. Always learning, always building.</h4>
 
 ###
