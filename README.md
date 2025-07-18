@@ -52,6 +52,6 @@
 
 ###
 
-<h4 align="left">I'm a Frontend Developer specializing in building fast, responsive web apps using **React** and **Next.js**.  <br>Passionate about clean UI, web performance, and modern frontend tools like **Tailwind CSS**. Always learning, always building.</h4>
+<h4 align="left">I'm a passionate **Frontend Developer** with a focus on building high-performance, responsive web applications using **React** and **Next.js**.<br><br>- 💡 Dedicated to crafting seamless **user experiences**, optimizing **web performance**, and writing **clean, scalable code**.<br>- 🛠️ Proficient in **Tailwind CSS**, **Redux**, **TypeScript**, and other cutting-edge frontend tools.<br>- 🚀 Continuously learning and staying updated with the latest in frontend development.<br>- 🤝 Open to collaboration on innovative projects that solve real-world problems and deliver value.</h4>
 
 ###
