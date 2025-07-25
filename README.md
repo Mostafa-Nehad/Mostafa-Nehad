@@ -2,11 +2,13 @@
 
 ###
 
-<h4 align="left">Frontend Developer | Focused on performance, UX, and clean code with Next.js</h4>
+<h4 align="center">
+  Frontend Developer | Specialized in building fast, scalable, and accessible web applications using Next.js, React, and modern frontend technologies. Passionate about clean code, performance, and seamless user experiences.
+</h4>
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🧰 Languages and Tools:</h2>
 
 ###
 
@@ -31,18 +33,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo"  />
 </div>
 
 ###
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">📫 Connect with me:</h2>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-nehad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:mostafanehad1995@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
@@ -52,6 +61,10 @@
 
 ###
 
-<h4 align="left">I'm a passionate **Frontend Developer** with a focus on building high-performance, responsive web applications using **React** and **Next.js**.<br><br>- 💡 Dedicated to crafting seamless **user experiences**, optimizing **web performance**, and writing **clean, scalable code**.<br>- 🛠️ Proficient in **Tailwind CSS**, **Redux**, **TypeScript**, and other cutting-edge frontend tools.<br>- 🚀 Continuously learning and staying updated with the latest in frontend development.<br>- 🤝 Open to collaboration on innovative projects that solve real-world problems and deliver value.</h4>
-
-###
+<h4 align="left">
+I'm a passionate <strong>Frontend Developer</strong> who loves building high-performance, responsive web applications using <strong>React</strong> and <strong>Next.js</strong>.<br /><br />
+- 💡 Focused on delivering seamless <strong>user experiences</strong>, optimizing <strong>performance</strong>, and writing <strong>clean, scalable code</strong>.<br />
+- 🛠️ Skilled in <strong>Tailwind CSS</strong>, <strong>Redux</strong>, <strong>TypeScript</strong>, and other modern frontend tools.<br />
+- 🚀 Always learning and evolving with the latest trends in frontend development.<br />
+- 🤝 Open to collaborative opportunities that make a real-world impact.
+</h4>
